@@ -2,6 +2,8 @@
 
 > A co gdyby zamiast wyżej wymienionych **przeczytać** ten obrazek? 
 
+![1753c.png](/1753c.png)
+
 ### Rozwiązanie:
 
 Po wykonaniu na obrazku polecenia _strings_ naszym oczom ukazuje się między innymi ciąg
