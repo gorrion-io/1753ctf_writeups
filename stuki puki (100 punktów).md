@@ -6,7 +6,7 @@
 
 > Wielkość liter nie ma znaczenia.
 
-![tajne.gif](https://i.imgur.com/O8o7x8v.gif)
+![tajne.gif](/tajne.gif)
 
 
 ### Rozwiązanie:
