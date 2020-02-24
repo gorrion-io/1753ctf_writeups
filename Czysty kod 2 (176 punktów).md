@@ -36,4 +36,4 @@ Finalnie flaga spełniająca powyższe założenia to
 
 ### Alternatywne rozwiązania:
 
-Ze względu na błąd w treści zadania można było dopasować także inne ciągi które spełniały warunki przedstawione w kodzie, ale nie były poprawną flagą. W szczególności odkryć je mogły osoby które zdecydowały się po zapoznaniu z kodem, że ciąg o długości pięciu znaków moża brute-forceować.
+Ze względu na błąd w treści zadania można było dopasować także inne ciągi które spełniały warunki przedstawione w kodzie, ale nie były poprawną flagą. W szczególności odkryć je mogły osoby które zdecydowały po zapoznaniu z kodem, że ciąg o długości pięciu znaków moża brute-forceować.
